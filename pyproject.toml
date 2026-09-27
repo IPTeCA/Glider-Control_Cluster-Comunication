@@ -1,7 +1,7 @@
 [project]
-name = "ncsu-flight-control-system"
+name = "flight-control-system"
 version = "0.1.0"
-description = "Windows measurement and logging tools for the NCSU Flight Control System"
+description = "Windows measurement and logging tools for the Flight Control System"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [

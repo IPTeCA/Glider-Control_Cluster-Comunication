@@ -21,7 +21,7 @@ wheels = [
 ]
 
 [[package]]
-name = "ncsu-flight-control-system"
+name = "flight-control-system"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

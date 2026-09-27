@@ -1,4 +1,4 @@
-# NCSU-Flight-Control-System
+# Flight-Control-System
 
 [English](README_en.md) | [日本語](README.md)
 
