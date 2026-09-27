@@ -1,0 +1,9 @@
+*.csv
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+*.egg-info/
